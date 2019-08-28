@@ -1,0 +1,6 @@
+C:\E drive Content\Folder\Practise\Interview preparation\Fresh Start (10th June, 2019)\Stack\StackUsingArray\StackUsingArray\bin\Debug\StackUsingArray.exe.config
+C:\E drive Content\Folder\Practise\Interview preparation\Fresh Start (10th June, 2019)\Stack\StackUsingArray\StackUsingArray\bin\Debug\StackUsingArray.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Fresh Start (10th June, 2019)\Stack\StackUsingArray\StackUsingArray\bin\Debug\StackUsingArray.pdb
+C:\E drive Content\Folder\Practise\Interview preparation\Fresh Start (10th June, 2019)\Stack\StackUsingArray\StackUsingArray\obj\Debug\StackUsingArray.csprojResolveAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Fresh Start (10th June, 2019)\Stack\StackUsingArray\StackUsingArray\obj\Debug\StackUsingArray.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Fresh Start (10th June, 2019)\Stack\StackUsingArray\StackUsingArray\obj\Debug\StackUsingArray.pdb

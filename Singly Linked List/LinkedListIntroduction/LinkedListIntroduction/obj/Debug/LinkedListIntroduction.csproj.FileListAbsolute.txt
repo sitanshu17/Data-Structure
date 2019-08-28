@@ -1,0 +1,6 @@
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\LinkedListIntroduction\LinkedListIntroduction\bin\Debug\LinkedListIntroduction.exe.config
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\LinkedListIntroduction\LinkedListIntroduction\bin\Debug\LinkedListIntroduction.exe
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\LinkedListIntroduction\LinkedListIntroduction\bin\Debug\LinkedListIntroduction.pdb
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\LinkedListIntroduction\LinkedListIntroduction\obj\Debug\LinkedListIntroduction.csprojResolveAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\LinkedListIntroduction\LinkedListIntroduction\obj\Debug\LinkedListIntroduction.exe
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\LinkedListIntroduction\LinkedListIntroduction\obj\Debug\LinkedListIntroduction.pdb

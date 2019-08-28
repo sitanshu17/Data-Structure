@@ -1,0 +1,11 @@
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.2\ReverseLinkedList.deps.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.2\ReverseLinkedList.runtimeconfig.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.2\ReverseLinkedList.runtimeconfig.dev.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.2\ReverseLinkedList.dll
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.2\ReverseLinkedList.pdb
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.2\ReverseLinkedList.csprojAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.2\ReverseLinkedList.csproj.CoreCompileInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.2\ReverseLinkedList.AssemblyInfoInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.2\ReverseLinkedList.AssemblyInfo.cs
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.2\ReverseLinkedList.dll
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.2\ReverseLinkedList.pdb

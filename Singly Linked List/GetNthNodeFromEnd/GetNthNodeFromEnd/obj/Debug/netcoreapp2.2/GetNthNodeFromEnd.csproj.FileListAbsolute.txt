@@ -1,0 +1,11 @@
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GetNthNodeFromEnd\GetNthNodeFromEnd\bin\Debug\netcoreapp2.2\GetNthNodeFromEnd.deps.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GetNthNodeFromEnd\GetNthNodeFromEnd\bin\Debug\netcoreapp2.2\GetNthNodeFromEnd.runtimeconfig.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GetNthNodeFromEnd\GetNthNodeFromEnd\bin\Debug\netcoreapp2.2\GetNthNodeFromEnd.runtimeconfig.dev.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GetNthNodeFromEnd\GetNthNodeFromEnd\bin\Debug\netcoreapp2.2\GetNthNodeFromEnd.dll
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GetNthNodeFromEnd\GetNthNodeFromEnd\bin\Debug\netcoreapp2.2\GetNthNodeFromEnd.pdb
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GetNthNodeFromEnd\GetNthNodeFromEnd\obj\Debug\netcoreapp2.2\GetNthNodeFromEnd.csprojAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GetNthNodeFromEnd\GetNthNodeFromEnd\obj\Debug\netcoreapp2.2\GetNthNodeFromEnd.csproj.CoreCompileInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GetNthNodeFromEnd\GetNthNodeFromEnd\obj\Debug\netcoreapp2.2\GetNthNodeFromEnd.AssemblyInfoInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GetNthNodeFromEnd\GetNthNodeFromEnd\obj\Debug\netcoreapp2.2\GetNthNodeFromEnd.AssemblyInfo.cs
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GetNthNodeFromEnd\GetNthNodeFromEnd\obj\Debug\netcoreapp2.2\GetNthNodeFromEnd.dll
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GetNthNodeFromEnd\GetNthNodeFromEnd\obj\Debug\netcoreapp2.2\GetNthNodeFromEnd.pdb

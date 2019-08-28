@@ -1,0 +1,10 @@
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\LinkedListPalindromeCheck\LinkedListPalindromeCheck\bin\Debug\netcoreapp2.2\LinkedListPalindromeCheck.deps.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\LinkedListPalindromeCheck\LinkedListPalindromeCheck\bin\Debug\netcoreapp2.2\LinkedListPalindromeCheck.runtimeconfig.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\LinkedListPalindromeCheck\LinkedListPalindromeCheck\bin\Debug\netcoreapp2.2\LinkedListPalindromeCheck.runtimeconfig.dev.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\LinkedListPalindromeCheck\LinkedListPalindromeCheck\bin\Debug\netcoreapp2.2\LinkedListPalindromeCheck.dll
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\LinkedListPalindromeCheck\LinkedListPalindromeCheck\bin\Debug\netcoreapp2.2\LinkedListPalindromeCheck.pdb
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\LinkedListPalindromeCheck\LinkedListPalindromeCheck\obj\Debug\netcoreapp2.2\LinkedListPalindromeCheck.csproj.CoreCompileInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\LinkedListPalindromeCheck\LinkedListPalindromeCheck\obj\Debug\netcoreapp2.2\LinkedListPalindromeCheck.AssemblyInfoInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\LinkedListPalindromeCheck\LinkedListPalindromeCheck\obj\Debug\netcoreapp2.2\LinkedListPalindromeCheck.AssemblyInfo.cs
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\LinkedListPalindromeCheck\LinkedListPalindromeCheck\obj\Debug\netcoreapp2.2\LinkedListPalindromeCheck.dll
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\LinkedListPalindromeCheck\LinkedListPalindromeCheck\obj\Debug\netcoreapp2.2\LinkedListPalindromeCheck.pdb

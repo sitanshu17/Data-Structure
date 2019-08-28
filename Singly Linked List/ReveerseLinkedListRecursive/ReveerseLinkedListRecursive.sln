@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReveerseLinkedListRecursive", "ReveerseLinkedListRecursive\ReveerseLinkedListRecursive.csproj", "{F59836D9-2D7F-4C2C-B095-9D298B626CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F59836D9-2D7F-4C2C-B095-9D298B626CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59836D9-2D7F-4C2C-B095-9D298B626CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59836D9-2D7F-4C2C-B095-9D298B626CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59836D9-2D7F-4C2C-B095-9D298B626CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B86CD30A-CB0A-4081-B518-0651AAC66D96}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\NextGreaterElement\NextGreaterElement\obj\Debug\NextGreaterElement.csprojAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\NextGreaterElement\NextGreaterElement\obj\Debug\NextGreaterElement.csproj.CoreCompileInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\NextGreaterElement\NextGreaterElement\bin\Debug\NextGreaterElement.exe.config
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\NextGreaterElement\NextGreaterElement\bin\Debug\NextGreaterElement.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\NextGreaterElement\NextGreaterElement\bin\Debug\NextGreaterElement.pdb
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\NextGreaterElement\NextGreaterElement\obj\Debug\NextGreaterElement.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\NextGreaterElement\NextGreaterElement\obj\Debug\NextGreaterElement.pdb

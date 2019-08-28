@@ -1,0 +1,5 @@
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\FindMiddleElement\FindMiddleElement\bin\Debug\FindMiddleElement.exe.config
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\FindMiddleElement\FindMiddleElement\bin\Debug\FindMiddleElement.exe
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\FindMiddleElement\FindMiddleElement\bin\Debug\FindMiddleElement.pdb
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\FindMiddleElement\FindMiddleElement\obj\Debug\FindMiddleElement.exe
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\FindMiddleElement\FindMiddleElement\obj\Debug\FindMiddleElement.pdb

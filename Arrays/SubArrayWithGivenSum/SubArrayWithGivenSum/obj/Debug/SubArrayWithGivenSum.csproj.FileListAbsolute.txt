@@ -1,0 +1,7 @@
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Arrays\SubArrayWithGivenSum\SubArrayWithGivenSum\bin\Debug\SubArrayWithGivenSum.exe.config
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Arrays\SubArrayWithGivenSum\SubArrayWithGivenSum\bin\Debug\SubArrayWithGivenSum.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Arrays\SubArrayWithGivenSum\SubArrayWithGivenSum\bin\Debug\SubArrayWithGivenSum.pdb
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Arrays\SubArrayWithGivenSum\SubArrayWithGivenSum\obj\Debug\SubArrayWithGivenSum.csprojAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Arrays\SubArrayWithGivenSum\SubArrayWithGivenSum\obj\Debug\SubArrayWithGivenSum.csproj.CoreCompileInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Arrays\SubArrayWithGivenSum\SubArrayWithGivenSum\obj\Debug\SubArrayWithGivenSum.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Arrays\SubArrayWithGivenSum\SubArrayWithGivenSum\obj\Debug\SubArrayWithGivenSum.pdb

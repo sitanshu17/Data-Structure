@@ -1,0 +1,7 @@
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingSingleStack\QueueUsingSingleStack\bin\Debug\QueueUsingSingleStack.exe.config
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingSingleStack\QueueUsingSingleStack\bin\Debug\QueueUsingSingleStack.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingSingleStack\QueueUsingSingleStack\bin\Debug\QueueUsingSingleStack.pdb
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingSingleStack\QueueUsingSingleStack\obj\Debug\QueueUsingSingleStack.csprojAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingSingleStack\QueueUsingSingleStack\obj\Debug\QueueUsingSingleStack.csproj.CoreCompileInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingSingleStack\QueueUsingSingleStack\obj\Debug\QueueUsingSingleStack.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingSingleStack\QueueUsingSingleStack\obj\Debug\QueueUsingSingleStack.pdb

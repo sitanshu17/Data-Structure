@@ -1,0 +1,11 @@
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReveerseLinkedListRecursive\ReveerseLinkedListRecursive\bin\Debug\netcoreapp2.2\ReveerseLinkedListRecursive.deps.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReveerseLinkedListRecursive\ReveerseLinkedListRecursive\bin\Debug\netcoreapp2.2\ReveerseLinkedListRecursive.runtimeconfig.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReveerseLinkedListRecursive\ReveerseLinkedListRecursive\bin\Debug\netcoreapp2.2\ReveerseLinkedListRecursive.runtimeconfig.dev.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReveerseLinkedListRecursive\ReveerseLinkedListRecursive\bin\Debug\netcoreapp2.2\ReveerseLinkedListRecursive.dll
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReveerseLinkedListRecursive\ReveerseLinkedListRecursive\bin\Debug\netcoreapp2.2\ReveerseLinkedListRecursive.pdb
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReveerseLinkedListRecursive\ReveerseLinkedListRecursive\obj\Debug\netcoreapp2.2\ReveerseLinkedListRecursive.csprojAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReveerseLinkedListRecursive\ReveerseLinkedListRecursive\obj\Debug\netcoreapp2.2\ReveerseLinkedListRecursive.csproj.CoreCompileInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReveerseLinkedListRecursive\ReveerseLinkedListRecursive\obj\Debug\netcoreapp2.2\ReveerseLinkedListRecursive.AssemblyInfoInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReveerseLinkedListRecursive\ReveerseLinkedListRecursive\obj\Debug\netcoreapp2.2\ReveerseLinkedListRecursive.AssemblyInfo.cs
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReveerseLinkedListRecursive\ReveerseLinkedListRecursive\obj\Debug\netcoreapp2.2\ReveerseLinkedListRecursive.dll
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\ReveerseLinkedListRecursive\ReveerseLinkedListRecursive\obj\Debug\netcoreapp2.2\ReveerseLinkedListRecursive.pdb

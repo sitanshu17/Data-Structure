@@ -1,0 +1,7 @@
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingStack\QueueUsingStack\bin\Debug\QueueUsingStack.exe.config
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingStack\QueueUsingStack\bin\Debug\QueueUsingStack.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingStack\QueueUsingStack\bin\Debug\QueueUsingStack.pdb
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingStack\QueueUsingStack\obj\Debug\QueueUsingStack.csprojAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingStack\QueueUsingStack\obj\Debug\QueueUsingStack.csproj.CoreCompileInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingStack\QueueUsingStack\obj\Debug\QueueUsingStack.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\QueueUsingStack\QueueUsingStack\obj\Debug\QueueUsingStack.pdb

@@ -1,0 +1,11 @@
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\netcoreapp2.2\StackUsingLinkedList.csprojAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\netcoreapp2.2\StackUsingLinkedList.csproj.CoreCompileInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\netcoreapp2.2\StackUsingLinkedList.AssemblyInfoInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\netcoreapp2.2\StackUsingLinkedList.AssemblyInfo.cs
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\StackUsingLinkedList\StackUsingLinkedList\bin\Debug\netcoreapp2.2\StackUsingLinkedList.deps.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\StackUsingLinkedList\StackUsingLinkedList\bin\Debug\netcoreapp2.2\StackUsingLinkedList.runtimeconfig.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\StackUsingLinkedList\StackUsingLinkedList\bin\Debug\netcoreapp2.2\StackUsingLinkedList.runtimeconfig.dev.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\StackUsingLinkedList\StackUsingLinkedList\bin\Debug\netcoreapp2.2\StackUsingLinkedList.dll
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\StackUsingLinkedList\StackUsingLinkedList\bin\Debug\netcoreapp2.2\StackUsingLinkedList.pdb
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\netcoreapp2.2\StackUsingLinkedList.dll
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Stack\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\netcoreapp2.2\StackUsingLinkedList.pdb

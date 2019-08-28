@@ -1,0 +1,6 @@
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\DeleteNodeAtGivenPosition\DeleteNodeAtGivenPosition\bin\Debug\DeleteNodeAtGivenPosition.exe.config
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\DeleteNodeAtGivenPosition\DeleteNodeAtGivenPosition\bin\Debug\DeleteNodeAtGivenPosition.exe
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\DeleteNodeAtGivenPosition\DeleteNodeAtGivenPosition\bin\Debug\DeleteNodeAtGivenPosition.pdb
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\DeleteNodeAtGivenPosition\DeleteNodeAtGivenPosition\obj\Debug\DeleteNodeAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\DeleteNodeAtGivenPosition\DeleteNodeAtGivenPosition\obj\Debug\DeleteNodeAtGivenPosition.exe
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\DeleteNodeAtGivenPosition\DeleteNodeAtGivenPosition\obj\Debug\DeleteNodeAtGivenPosition.pdb

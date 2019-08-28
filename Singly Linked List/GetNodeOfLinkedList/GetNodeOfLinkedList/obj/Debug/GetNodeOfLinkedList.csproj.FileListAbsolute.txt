@@ -1,0 +1,5 @@
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\GetNodeOfLinkedList\GetNodeOfLinkedList\bin\Debug\GetNodeOfLinkedList.exe.config
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\GetNodeOfLinkedList\GetNodeOfLinkedList\bin\Debug\GetNodeOfLinkedList.exe
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\GetNodeOfLinkedList\GetNodeOfLinkedList\bin\Debug\GetNodeOfLinkedList.pdb
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\GetNodeOfLinkedList\GetNodeOfLinkedList\obj\Debug\GetNodeOfLinkedList.exe
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\GetNodeOfLinkedList\GetNodeOfLinkedList\obj\Debug\GetNodeOfLinkedList.pdb

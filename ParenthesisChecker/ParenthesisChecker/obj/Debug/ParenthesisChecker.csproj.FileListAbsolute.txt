@@ -1,0 +1,7 @@
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\ParenthesisChecker\ParenthesisChecker\bin\Debug\ParenthesisChecker.exe.config
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\ParenthesisChecker\ParenthesisChecker\bin\Debug\ParenthesisChecker.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\ParenthesisChecker\ParenthesisChecker\bin\Debug\ParenthesisChecker.pdb
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\ParenthesisChecker\ParenthesisChecker\obj\Debug\ParenthesisChecker.csprojAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\ParenthesisChecker\ParenthesisChecker\obj\Debug\ParenthesisChecker.csproj.CoreCompileInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\ParenthesisChecker\ParenthesisChecker\obj\Debug\ParenthesisChecker.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\ParenthesisChecker\ParenthesisChecker\obj\Debug\ParenthesisChecker.pdb

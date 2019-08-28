@@ -1,0 +1,6 @@
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Arrays\MissingNumberInAnArray\MissingNumberInAnArray\bin\Debug\MissingNumberInAnArray.exe.config
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Arrays\MissingNumberInAnArray\MissingNumberInAnArray\bin\Debug\MissingNumberInAnArray.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Arrays\MissingNumberInAnArray\MissingNumberInAnArray\bin\Debug\MissingNumberInAnArray.pdb
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Arrays\MissingNumberInAnArray\MissingNumberInAnArray\obj\Debug\MissingNumberInAnArray.csproj.CoreCompileInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Arrays\MissingNumberInAnArray\MissingNumberInAnArray\obj\Debug\MissingNumberInAnArray.exe
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Arrays\MissingNumberInAnArray\MissingNumberInAnArray\obj\Debug\MissingNumberInAnArray.pdb

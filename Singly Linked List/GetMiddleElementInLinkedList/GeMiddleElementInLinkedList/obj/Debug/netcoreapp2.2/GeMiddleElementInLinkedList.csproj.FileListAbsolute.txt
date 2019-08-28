@@ -1,0 +1,11 @@
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GeMiddleElementInLinkedList\GeMiddleElementInLinkedList\bin\Debug\netcoreapp2.2\GeMiddleElementInLinkedList.deps.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GeMiddleElementInLinkedList\GeMiddleElementInLinkedList\bin\Debug\netcoreapp2.2\GeMiddleElementInLinkedList.runtimeconfig.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GeMiddleElementInLinkedList\GeMiddleElementInLinkedList\bin\Debug\netcoreapp2.2\GeMiddleElementInLinkedList.runtimeconfig.dev.json
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GeMiddleElementInLinkedList\GeMiddleElementInLinkedList\bin\Debug\netcoreapp2.2\GeMiddleElementInLinkedList.dll
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GeMiddleElementInLinkedList\GeMiddleElementInLinkedList\bin\Debug\netcoreapp2.2\GeMiddleElementInLinkedList.pdb
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GeMiddleElementInLinkedList\GeMiddleElementInLinkedList\obj\Debug\netcoreapp2.2\GeMiddleElementInLinkedList.csprojAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GeMiddleElementInLinkedList\GeMiddleElementInLinkedList\obj\Debug\netcoreapp2.2\GeMiddleElementInLinkedList.csproj.CoreCompileInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GeMiddleElementInLinkedList\GeMiddleElementInLinkedList\obj\Debug\netcoreapp2.2\GeMiddleElementInLinkedList.AssemblyInfoInputs.cache
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GeMiddleElementInLinkedList\GeMiddleElementInLinkedList\obj\Debug\netcoreapp2.2\GeMiddleElementInLinkedList.AssemblyInfo.cs
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GeMiddleElementInLinkedList\GeMiddleElementInLinkedList\obj\Debug\netcoreapp2.2\GeMiddleElementInLinkedList.dll
+C:\E drive Content\Folder\Practise\Interview preparation\Data Structure\Singly Linked List\GeMiddleElementInLinkedList\GeMiddleElementInLinkedList\obj\Debug\netcoreapp2.2\GeMiddleElementInLinkedList.pdb

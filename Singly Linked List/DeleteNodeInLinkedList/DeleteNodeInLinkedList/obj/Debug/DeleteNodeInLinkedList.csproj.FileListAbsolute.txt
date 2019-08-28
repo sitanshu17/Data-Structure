@@ -1,0 +1,6 @@
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\DeleteNodeInLinkedList\DeleteNodeInLinkedList\bin\Debug\DeleteNodeInLinkedList.exe.config
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\DeleteNodeInLinkedList\DeleteNodeInLinkedList\bin\Debug\DeleteNodeInLinkedList.exe
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\DeleteNodeInLinkedList\DeleteNodeInLinkedList\bin\Debug\DeleteNodeInLinkedList.pdb
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\DeleteNodeInLinkedList\DeleteNodeInLinkedList\obj\Debug\DeleteNodeInLinkedList.csprojResolveAssemblyReference.cache
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\DeleteNodeInLinkedList\DeleteNodeInLinkedList\obj\Debug\DeleteNodeInLinkedList.exe
+C:\E drive Content\Folder\Practise\Fresh Start (10th June, 2019)\Singly Linked List\DeleteNodeInLinkedList\DeleteNodeInLinkedList\obj\Debug\DeleteNodeInLinkedList.pdb
